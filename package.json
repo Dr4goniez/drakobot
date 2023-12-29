@@ -1,0 +1,26 @@
+{
+  "name": "drakobot",
+  "version": "1.0.0",
+  "description": "A Wikipedia bot.",
+  "main": "dist/bot.js",
+  "scripts": {
+    "start": "node dist/bot.js > log.text 2>&1",
+    "start-ts": "ts-node src/bot.ts"
+  },
+  "keywords": [
+    "wikipedia",
+    "mediawiki"
+  ],
+  "author": "Dr4goniez",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "mwn": "^2.0.2"
+  }
+}
