@@ -1,0 +1,1500 @@
+{
+    "ignored": [
+        "*",
+        "user",
+        "autoconfirmed",
+        "steward",
+        "import",
+        "transwiki",
+        "ipblock-exempt",
+        "editor",
+        "uploader",
+        "autoreview",
+        "autopatrolled",
+        "extendedconfirmed",
+        "autoeditor",
+        "noratelimit",
+        "autoreviewer",
+        "upload-shared",
+        "trusteduser",
+        "trusted",
+        "autoreviewed",
+        "validator",
+        "autoextendedconfirmed",
+        "upwizcampeditors",
+        "eventparticipant",
+        "inactive",
+        "machinevision-tester",
+        "translator"
+    ],
+    "canonical": [
+        "bot",
+        "sysop",
+        "interface-admin",
+        "bureaucrat",
+        "suppress",
+        "accountcreator",
+        "checkuser"
+    ],
+    "extra": {
+        "abwiki": [],
+        "acewiki": [],
+        "adywiki": [],
+        "afwiki": [],
+        "afwiktionary": [],
+        "afwikibooks": [],
+        "afwikiquote": [],
+        "altwiki": [],
+        "amwiki": [],
+        "amwiktionary": [],
+        "amiwiki": [],
+        "anwiki": [],
+        "anwiktionary": [],
+        "angwiki": [],
+        "angwiktionary": [],
+        "anpwiki": [],
+        "arwiki": [
+            "rollbacker",
+            "reviewer",
+            "extendedmover",
+            "abusefilter",
+            "flow-bot"
+        ],
+        "arwiktionary": [
+            "rollbacker"
+        ],
+        "arwikibooks": [
+            "rollbacker"
+        ],
+        "arwikinews": [
+            "rollbacker"
+        ],
+        "arwikiquote": [
+            "rollbacker"
+        ],
+        "arwikisource": [
+            "patroller",
+            "rollbacker"
+        ],
+        "arwikiversity": [
+            "rollbacker",
+            "flow-bot"
+        ],
+        "arcwiki": [],
+        "arywiki": [],
+        "arzwiki": [
+            "rollbacker",
+            "patroller"
+        ],
+        "aswiki": [],
+        "aswikiquote": [],
+        "aswikisource": [],
+        "astwiki": [],
+        "astwiktionary": [],
+        "atjwiki": [],
+        "avwiki": [],
+        "avkwiki": [],
+        "awawiki": [],
+        "aywiki": [],
+        "aywiktionary": [],
+        "azwiki": [
+            "patroller",
+            "rollbacker",
+            "pagemover",
+            "filemover"
+        ],
+        "azwiktionary": [],
+        "azwikibooks": [],
+        "azwikiquote": [],
+        "azwikisource": [],
+        "azbwiki": [
+            "interface-editor",
+            "patroller",
+            "rollbacker",
+            "abusefilter"
+        ],
+        "bawiki": [],
+        "bawikibooks": [],
+        "banwiki": [],
+        "banwikisource": [],
+        "barwiki": [],
+        "bbcwiki": [],
+        "bclwiki": [],
+        "bclwiktionary": [],
+        "bclwikiquote": [],
+        "bewiki": [],
+        "bewiktionary": [],
+        "bewikibooks": [],
+        "bewikiquote": [],
+        "bewikisource": [],
+        "be_x_oldwiki": [
+            "abusefilter"
+        ],
+        "bgwiki": [
+            "patroller"
+        ],
+        "bgwiktionary": [],
+        "bgwikibooks": [],
+        "bgwikiquote": [],
+        "bgwikisource": [],
+        "bhwiki": [],
+        "biwiki": [],
+        "bjnwiki": [],
+        "bjnwiktionary": [],
+        "bjnwikiquote": [],
+        "blkwiki": [],
+        "blkwiktionary": [],
+        "bmwiki": [],
+        "bnwiki": [
+            "patroller",
+            "rollbacker",
+            "reviewer",
+            "flood",
+            "filemover"
+        ],
+        "bnwiktionary": [
+            "patroller"
+        ],
+        "bnwikibooks": [
+            "patroller"
+        ],
+        "bnwikiquote": [
+            "patroller"
+        ],
+        "bnwikisource": [
+            "flood",
+            "filemover"
+        ],
+        "bnwikivoyage": [
+            "patroller"
+        ],
+        "bowiki": [],
+        "bpywiki": [],
+        "brwiki": [],
+        "brwiktionary": [],
+        "brwikiquote": [],
+        "brwikisource": [],
+        "bswiki": [
+            "rollbacker",
+            "flood",
+            "flow-bot"
+        ],
+        "bswiktionary": [],
+        "bswikibooks": [],
+        "bswikinews": [],
+        "bswikiquote": [],
+        "bswikisource": [],
+        "btmwiktionary": [],
+        "bugwiki": [],
+        "bxrwiki": [],
+        "cawiki": [
+            "rollbacker",
+            "abusefilter",
+            "flow-bot"
+        ],
+        "cawiktionary": [],
+        "cawikibooks": [],
+        "cawikinews": [
+            "flood",
+            "reviewer"
+        ],
+        "cawikiquote": [
+            "flow-bot"
+        ],
+        "cawikisource": [],
+        "cbk_zamwiki": [],
+        "cdowiki": [],
+        "cewiki": [
+            "rollbacker",
+            "suppressredirect",
+            "reviewer"
+        ],
+        "cebwiki": [],
+        "chwiki": [],
+        "chrwiki": [],
+        "chrwiktionary": [],
+        "chywiki": [],
+        "ckbwiki": [
+            "rollbacker",
+            "interface-editor",
+            "flood",
+            "botadmin",
+            "suppressredirect",
+            "patroller",
+            "reviewer"
+        ],
+        "ckbwiktionary": [],
+        "cowiki": [],
+        "cowiktionary": [],
+        "crwiki": [],
+        "crhwiki": [],
+        "cswiki": [
+            "arbcom",
+            "rollbacker",
+            "patroller",
+            "flow-bot"
+        ],
+        "cswiktionary": [],
+        "cswikibooks": [],
+        "cswikinews": [],
+        "cswikiquote": [],
+        "cswikisource": [],
+        "cswikiversity": [],
+        "csbwiki": [],
+        "csbwiktionary": [],
+        "cuwiki": [],
+        "cvwiki": [],
+        "cvwikibooks": [],
+        "cywiki": [],
+        "cywiktionary": [],
+        "cywikibooks": [],
+        "cywikiquote": [],
+        "cywikisource": [],
+        "dawiki": [
+            "patroller"
+        ],
+        "dawiktionary": [],
+        "dawikibooks": [],
+        "dawikiquote": [],
+        "dawikisource": [],
+        "dagwiki": [],
+        "dewiki": [
+            "reviewer"
+        ],
+        "dewiktionary": [
+            "reviewer"
+        ],
+        "dewikibooks": [],
+        "dewikinews": [],
+        "dewikiquote": [
+            "reviewer"
+        ],
+        "dewikisource": [],
+        "dewikiversity": [],
+        "dewikivoyage": [],
+        "dgawiki": [],
+        "dinwiki": [],
+        "diqwiki": [],
+        "diqwiktionary": [],
+        "dsbwiki": [],
+        "dtywiki": [],
+        "dvwiki": [],
+        "dvwiktionary": [],
+        "dzwiki": [],
+        "eewiki": [],
+        "elwiki": [
+            "rollbacker",
+            "flow-bot"
+        ],
+        "elwiktionary": [
+            "interface-editor",
+            "rollbacker"
+        ],
+        "elwikibooks": [],
+        "elwikinews": [],
+        "elwikiquote": [],
+        "elwikisource": [],
+        "elwikiversity": [],
+        "elwikivoyage": [],
+        "emlwiki": [],
+        "enwiki": [
+            "founder",
+            "rollbacker",
+            "abusefilter-helper",
+            "eventcoordinator",
+            "researcher",
+            "filemover",
+            "templateeditor",
+            "massmessage-sender",
+            "extendedmover",
+            "patroller",
+            "abusefilter",
+            "reviewer",
+            "copyviobot"
+        ],
+        "enwiktionary": [
+            "extendedmover",
+            "flood",
+            "patroller",
+            "rollbacker",
+            "templateeditor"
+        ],
+        "enwikibooks": [
+            "flood"
+        ],
+        "enwikinews": [
+            "flood"
+        ],
+        "enwikiquote": [
+            "rollbacker"
+        ],
+        "enwikisource": [
+            "flood",
+            "abusefilter"
+        ],
+        "enwikiversity": [
+            "curator"
+        ],
+        "enwikivoyage": [
+            "patroller",
+            "templateeditor"
+        ],
+        "eowiki": [
+            "reviewer",
+            "flow-bot"
+        ],
+        "eowiktionary": [],
+        "eowikibooks": [],
+        "eowikinews": [],
+        "eowikiquote": [],
+        "eowikisource": [],
+        "eowikivoyage": [],
+        "eswiki": [
+            "rollbacker",
+            "patroller",
+            "flood",
+            "templateeditor",
+            "botadmin",
+            "abusefilter"
+        ],
+        "eswiktionary": [
+            "patroller",
+            "rollbacker",
+            "abusefilter"
+        ],
+        "eswikibooks": [
+            "flood",
+            "rollbacker",
+            "patroller"
+        ],
+        "eswikinews": [
+            "editprotected",
+            "flood",
+            "reviewer"
+        ],
+        "eswikiquote": [
+            "rollbacker",
+            "patroller"
+        ],
+        "eswikisource": [],
+        "eswikiversity": [],
+        "eswikivoyage": [
+            "rollbacker",
+            "patroller"
+        ],
+        "etwiki": [],
+        "etwiktionary": [],
+        "etwikibooks": [],
+        "etwikiquote": [],
+        "etwikisource": [],
+        "euwiki": [
+            "flow-bot"
+        ],
+        "euwiktionary": [],
+        "euwikibooks": [],
+        "euwikiquote": [],
+        "euwikisource": [],
+        "extwiki": [],
+        "fawiki": [
+            "patroller",
+            "rollbacker",
+            "image-reviewer",
+            "botadmin",
+            "templateeditor",
+            "eliminator",
+            "extendedmover",
+            "abusefilter",
+            "reviewer",
+            "flow-bot"
+        ],
+        "fawiktionary": [
+            "patroller",
+            "rollbacker"
+        ],
+        "fawikibooks": [
+            "patroller",
+            "rollbacker"
+        ],
+        "fawikinews": [
+            "rollbacker",
+            "patroller"
+        ],
+        "fawikiquote": [
+            "rollbacker"
+        ],
+        "fawikisource": [
+            "patroller",
+            "rollbacker"
+        ],
+        "fawikivoyage": [
+            "flood",
+            "patroller",
+            "rollbacker"
+        ],
+        "fatwiki": [],
+        "ffwiki": [],
+        "fiwiki": [
+            "patroller",
+            "rollbacker",
+            "arbcom",
+            "reviewer",
+            "flow-bot"
+        ],
+        "fiwiktionary": [
+            "rollbacker"
+        ],
+        "fiwikibooks": [],
+        "fiwikinews": [],
+        "fiwikiquote": [],
+        "fiwikisource": [],
+        "fiwikiversity": [],
+        "fiwikivoyage": [],
+        "fjwiki": [],
+        "fjwiktionary": [],
+        "fowiki": [],
+        "fowiktionary": [],
+        "fowikisource": [],
+        "fonwiki": [],
+        "frwiki": [
+            "rollbacker",
+            "abusefilter",
+            "flow-bot"
+        ],
+        "frwiktionary": [
+            "patroller",
+            "botadmin",
+            "abusefilter",
+            "translationadmin",
+            "flow-bot"
+        ],
+        "frwikibooks": [
+            "patroller",
+            "abusefilter"
+        ],
+        "frwikinews": [
+            "flood",
+            "facilitator"
+        ],
+        "frwikiquote": [
+            "flow-bot"
+        ],
+        "frwikisource": [
+            "patroller",
+            "flow-bot"
+        ],
+        "frwikiversity": [
+            "patroller",
+            "flow-bot"
+        ],
+        "frwikivoyage": [
+            "patroller",
+            "flow-bot"
+        ],
+        "frpwiki": [],
+        "frrwiki": [],
+        "furwiki": [],
+        "fywiki": [],
+        "fywiktionary": [],
+        "fywikibooks": [],
+        "gawiki": [
+            "rollbacker"
+        ],
+        "gawiktionary": [],
+        "gagwiki": [],
+        "ganwiki": [],
+        "gcrwiki": [],
+        "gdwiki": [],
+        "gdwiktionary": [],
+        "glwiki": [],
+        "glwiktionary": [],
+        "glwikibooks": [],
+        "glwikiquote": [],
+        "glwikisource": [],
+        "glkwiki": [],
+        "gnwiki": [],
+        "gnwiktionary": [],
+        "gomwiki": [
+            "flow-bot"
+        ],
+        "gomwiktionary": [],
+        "gorwiki": [],
+        "gorwiktionary": [],
+        "gotwiki": [],
+        "gpewiki": [],
+        "alswiki": [
+            "reviewer"
+        ],
+        "guwiki": [
+            "rollbacker"
+        ],
+        "guwiktionary": [],
+        "guwikiquote": [],
+        "guwikisource": [],
+        "gucwiki": [],
+        "gurwiki": [],
+        "guwwiki": [],
+        "guwwiktionary": [],
+        "guwwikinews": [],
+        "guwwikiquote": [],
+        "gvwiki": [],
+        "gvwiktionary": [],
+        "hawiki": [],
+        "hawiktionary": [],
+        "hakwiki": [],
+        "hawwiki": [],
+        "hewiki": [
+            "patroller",
+            "templateeditor",
+            "flow-bot"
+        ],
+        "hewiktionary": [
+            "patroller"
+        ],
+        "hewikibooks": [
+            "patroller"
+        ],
+        "hewikinews": [
+            "patroller"
+        ],
+        "hewikiquote": [],
+        "hewikisource": [
+            "reviewer"
+        ],
+        "hewikivoyage": [],
+        "hiwiki": [
+            "rollbacker",
+            "filemover",
+            "reviewer",
+            "templateeditor",
+            "abusefilter"
+        ],
+        "hiwiktionary": [],
+        "hiwikibooks": [],
+        "hiwikiquote": [],
+        "hiwikisource": [],
+        "hiwikiversity": [],
+        "hiwikivoyage": [],
+        "hifwiki": [],
+        "hifwiktionary": [],
+        "hrwiki": [
+            "patroller",
+            "flood"
+        ],
+        "hrwiktionary": [],
+        "hrwikibooks": [],
+        "hrwikiquote": [],
+        "hrwikisource": [],
+        "hsbwiki": [],
+        "hsbwiktionary": [],
+        "htwiki": [],
+        "huwiki": [
+            "templateeditor",
+            "interface-editor"
+        ],
+        "huwiktionary": [],
+        "huwikibooks": [],
+        "huwikiquote": [],
+        "huwikisource": [],
+        "hywiki": [],
+        "hywiktionary": [],
+        "hywikibooks": [],
+        "hywikiquote": [],
+        "hywikisource": [],
+        "hywwiki": [],
+        "iawiki": [
+            "reviewer"
+        ],
+        "iawiktionary": [],
+        "iawikibooks": [],
+        "idwiki": [
+            "rollbacker",
+            "reviewer",
+            "flow-bot"
+        ],
+        "idwiktionary": [],
+        "idwikibooks": [],
+        "idwikiquote": [],
+        "idwikisource": [],
+        "iewiki": [],
+        "iewiktionary": [],
+        "igwiki": [],
+        "igwiktionary": [],
+        "igwikiquote": [],
+        "ikwiki": [],
+        "ilowiki": [],
+        "inhwiki": [],
+        "iowiki": [],
+        "iowiktionary": [],
+        "iswiki": [],
+        "iswiktionary": [
+            "reviewer"
+        ],
+        "iswikibooks": [],
+        "iswikiquote": [],
+        "iswikisource": [],
+        "itwiki": [
+            "flood",
+            "rollbacker",
+            "mover",
+            "botadmin"
+        ],
+        "itwiktionary": [
+            "patroller",
+            "flood"
+        ],
+        "itwikibooks": [
+            "patroller",
+            "flood"
+        ],
+        "itwikinews": [
+            "rollbacker",
+            "closer"
+        ],
+        "itwikiquote": [],
+        "itwikisource": [
+            "flood"
+        ],
+        "itwikiversity": [
+            "patroller",
+            "flood"
+        ],
+        "itwikivoyage": [
+            "patroller"
+        ],
+        "iuwiki": [],
+        "iuwiktionary": [],
+        "jawiki": [
+            "abusefilter",
+            "rollbacker",
+            "eliminator"
+        ],
+        "jawiktionary": [],
+        "jawikibooks": [],
+        "jawikinews": [],
+        "jawikiquote": [],
+        "jawikisource": [],
+        "jawikiversity": [],
+        "jawikivoyage": [],
+        "jamwiki": [],
+        "jbowiki": [],
+        "jbowiktionary": [],
+        "jvwiki": [],
+        "jvwiktionary": [],
+        "jvwikisource": [],
+        "kawiki": [
+            "reviewer"
+        ],
+        "kawiktionary": [],
+        "kawikibooks": [],
+        "kawikiquote": [],
+        "kaawiki": [],
+        "kabwiki": [
+            "flow-bot"
+        ],
+        "kbdwiki": [],
+        "kbdwiktionary": [],
+        "kbpwiki": [],
+        "kcgwiki": [],
+        "kcgwiktionary": [],
+        "kgwiki": [],
+        "kiwiki": [],
+        "kkwiki": [
+            "rollbacker",
+            "flow-bot"
+        ],
+        "kkwiktionary": [],
+        "kkwikibooks": [],
+        "klwiki": [],
+        "klwiktionary": [],
+        "kmwiki": [],
+        "kmwiktionary": [],
+        "kmwikibooks": [],
+        "knwiki": [
+            "flood"
+        ],
+        "knwiktionary": [],
+        "knwikiquote": [],
+        "knwikisource": [],
+        "kowiki": [
+            "rollbacker"
+        ],
+        "kowiktionary": [],
+        "kowikibooks": [],
+        "kowikinews": [],
+        "kowikiquote": [],
+        "kowikisource": [],
+        "kowikiversity": [],
+        "koiwiki": [],
+        "krcwiki": [],
+        "kswiki": [
+            "rollbacker"
+        ],
+        "kswiktionary": [],
+        "kshwiki": [],
+        "kuwiki": [],
+        "kuwiktionary": [],
+        "kuwikibooks": [],
+        "kuwikiquote": [],
+        "kvwiki": [],
+        "kwwiki": [],
+        "kwwiktionary": [],
+        "kywiki": [],
+        "kywiktionary": [],
+        "kywikibooks": [],
+        "kywikiquote": [],
+        "lawiki": [],
+        "lawiktionary": [],
+        "lawikibooks": [],
+        "lawikiquote": [],
+        "lawikisource": [
+            "reviewer"
+        ],
+        "ladwiki": [
+            "flood"
+        ],
+        "lbwiki": [],
+        "lbwiktionary": [],
+        "lbewiki": [],
+        "lezwiki": [],
+        "lfnwiki": [],
+        "lgwiki": [],
+        "liwiki": [],
+        "liwiktionary": [],
+        "liwikibooks": [],
+        "liwikinews": [],
+        "liwikiquote": [],
+        "liwikisource": [],
+        "lijwiki": [
+            "rollbacker",
+            "mover"
+        ],
+        "lijwikisource": [],
+        "lldwiki": [],
+        "lmowiki": [],
+        "lmowiktionary": [
+            "extendedmover"
+        ],
+        "lnwiki": [],
+        "lnwiktionary": [],
+        "lowiki": [],
+        "lowiktionary": [],
+        "ltwiki": [
+            "abusefilter"
+        ],
+        "ltwiktionary": [
+            "abusefilter"
+        ],
+        "ltwikibooks": [],
+        "ltwikiquote": [],
+        "ltwikisource": [],
+        "ltgwiki": [],
+        "lvwiki": [
+            "patroller",
+            "flood",
+            "flow-bot"
+        ],
+        "lvwiktionary": [],
+        "zh_classicalwiki": [
+            "reviewer"
+        ],
+        "madwiki": [],
+        "maiwiki": [
+            "patroller",
+            "rollbacker"
+        ],
+        "map_bmswiki": [],
+        "mdfwiki": [],
+        "mgwiki": [],
+        "mgwiktionary": [],
+        "mgwikibooks": [],
+        "mhrwiki": [],
+        "miwiki": [],
+        "miwiktionary": [],
+        "minwiki": [],
+        "minwiktionary": [],
+        "mkwiki": [
+            "patroller",
+            "reviewer"
+        ],
+        "mkwiktionary": [],
+        "mkwikibooks": [],
+        "mkwikisource": [],
+        "mlwiki": [
+            "patroller",
+            "rollbacker",
+            "botadmin"
+        ],
+        "mlwiktionary": [],
+        "mlwikibooks": [],
+        "mlwikiquote": [],
+        "mlwikisource": [
+            "patroller"
+        ],
+        "mnwiki": [],
+        "mnwiktionary": [],
+        "mniwiki": [],
+        "mniwiktionary": [],
+        "mnwwiki": [],
+        "mnwwiktionary": [],
+        "mrwiki": [
+            "rollbacker"
+        ],
+        "mrwiktionary": [],
+        "mrwikibooks": [],
+        "mrwikiquote": [],
+        "mrwikisource": [
+            "patroller",
+            "templateeditor"
+        ],
+        "mrjwiki": [],
+        "mswiki": [],
+        "mswiktionary": [],
+        "mswikibooks": [],
+        "mtwiki": [],
+        "mtwiktionary": [],
+        "mwlwiki": [],
+        "mywiki": [
+            "patroller"
+        ],
+        "mywiktionary": [],
+        "myvwiki": [],
+        "mznwiki": [],
+        "nawiktionary": [],
+        "nahwiki": [],
+        "nahwiktionary": [],
+        "zh_min_nanwiki": [],
+        "zh_min_nanwiktionary": [],
+        "zh_min_nanwikisource": [],
+        "napwiki": [],
+        "napwikisource": [],
+        "ndswiki": [],
+        "ndswiktionary": [],
+        "nds_nlwiki": [],
+        "newiki": [
+            "rollbacker",
+            "patroller",
+            "filemover",
+            "templateeditor",
+            "flood",
+            "abusefilter"
+        ],
+        "newiktionary": [],
+        "newikibooks": [],
+        "newwiki": [],
+        "niawiki": [],
+        "niawiktionary": [],
+        "nlwiki": [
+            "arbcom",
+            "rollbacker",
+            "abusefilter"
+        ],
+        "nlwiktionary": [],
+        "nlwikibooks": [],
+        "nlwikinews": [],
+        "nlwikiquote": [],
+        "nlwikisource": [],
+        "nlwikivoyage": [],
+        "nnwiki": [],
+        "nnwiktionary": [],
+        "nnwikiquote": [],
+        "nowiki": [],
+        "nowiktionary": [],
+        "nowikibooks": [],
+        "nowikinews": [],
+        "nowikiquote": [],
+        "nowikisource": [],
+        "novwiki": [],
+        "nqowiki": [],
+        "nrmwiki": [],
+        "nsowiki": [],
+        "nvwiki": [],
+        "nywiki": [],
+        "ocwiki": [],
+        "ocwiktionary": [],
+        "ocwikibooks": [],
+        "olowiki": [],
+        "omwiki": [],
+        "omwiktionary": [],
+        "orwiki": [],
+        "orwiktionary": [],
+        "orwikisource": [],
+        "oswiki": [],
+        "pawiki": [],
+        "pawiktionary": [],
+        "pawikibooks": [],
+        "pawikisource": [],
+        "pagwiki": [],
+        "pamwiki": [],
+        "papwiki": [],
+        "pcdwiki": [],
+        "pcmwiki": [],
+        "pdcwiki": [],
+        "pflwiki": [],
+        "piwiki": [],
+        "pihwiki": [],
+        "plwiki": [],
+        "plwiktionary": [],
+        "plwikibooks": [],
+        "plwikinews": [],
+        "plwikiquote": [],
+        "plwikisource": [],
+        "plwikivoyage": [],
+        "pmswiki": [],
+        "pmswikisource": [],
+        "pnbwiki": [],
+        "pnbwiktionary": [],
+        "pntwiki": [],
+        "pswiki": [],
+        "pswiktionary": [],
+        "pswikivoyage": [],
+        "ptwiki": [],
+        "ptwiktionary": [],
+        "ptwikibooks": [],
+        "ptwikinews": [],
+        "ptwikiquote": [],
+        "ptwikisource": [],
+        "ptwikiversity": [],
+        "ptwikivoyage": [],
+        "pwnwiki": [],
+        "quwiki": [],
+        "quwiktionary": [],
+        "rmwiki": [],
+        "rmywiki": [],
+        "rnwiki": [],
+        "rowiki": [],
+        "rowiktionary": [],
+        "rowikibooks": [],
+        "rowikinews": [],
+        "rowikiquote": [],
+        "rowikisource": [],
+        "rowikivoyage": [],
+        "roa_tarawiki": [],
+        "ruwiki": [],
+        "ruwiktionary": [],
+        "ruwikibooks": [],
+        "ruwikinews": [],
+        "ruwikiquote": [],
+        "ruwikisource": [],
+        "ruwikiversity": [],
+        "ruwikivoyage": [],
+        "ruewiki": [],
+        "roa_rupwiki": [],
+        "roa_rupwiktionary": [],
+        "rwwiki": [],
+        "rwwiktionary": [],
+        "sawiki": [],
+        "sawiktionary": [],
+        "sawikibooks": [],
+        "sawikiquote": [],
+        "sawikisource": [],
+        "sahwiki": [],
+        "sahwikiquote": [],
+        "sahwikisource": [],
+        "satwiki": [],
+        "scwiki": [],
+        "scnwiki": [],
+        "scnwiktionary": [],
+        "scowiki": [
+            "rollbacker",
+            "flood"
+        ],
+        "sdwiki": [],
+        "sdwiktionary": [],
+        "sewiki": [],
+        "sgwiki": [],
+        "sgwiktionary": [],
+        "bat_smgwiki": [],
+        "shwiki": [
+            "patroller",
+            "rollbacker",
+            "filemover",
+            "flood"
+        ],
+        "shwiktionary": [],
+        "shiwiki": [],
+        "shnwiki": [],
+        "shnwiktionary": [],
+        "shnwikibooks": [],
+        "shnwikivoyage": [],
+        "shywiktionary": [],
+        "siwiki": [
+            "rollbacker"
+        ],
+        "siwiktionary": [],
+        "siwikibooks": [],
+        "simplewiki": [
+            "flood",
+            "rollbacker",
+            "patroller"
+        ],
+        "simplewiktionary": [
+            "rollbacker"
+        ],
+        "skwiki": [
+            "rollbacker"
+        ],
+        "skwiktionary": [],
+        "skwikibooks": [],
+        "skwikiquote": [],
+        "skwikisource": [],
+        "skrwiki": [],
+        "skrwiktionary": [],
+        "slwiki": [],
+        "slwiktionary": [],
+        "slwikibooks": [],
+        "slwikiquote": [],
+        "slwikisource": [],
+        "slwikiversity": [],
+        "smwiki": [],
+        "smwiktionary": [],
+        "smnwiki": [],
+        "snwiki": [],
+        "sowiki": [],
+        "sowiktionary": [],
+        "sqwiki": [
+            "reviewer"
+        ],
+        "sqwiktionary": [],
+        "sqwikibooks": [],
+        "sqwikinews": [],
+        "sqwikiquote": [],
+        "srwiki": [
+            "patroller",
+            "rollbacker",
+            "flood"
+        ],
+        "srwiktionary": [
+            "patroller",
+            "rollbacker"
+        ],
+        "srwikibooks": [
+            "patroller",
+            "rollbacker"
+        ],
+        "srwikinews": [
+            "patroller",
+            "rollbacker"
+        ],
+        "srwikiquote": [
+            "patroller",
+            "rollbacker"
+        ],
+        "srwikisource": [
+            "patroller",
+            "rollbacker"
+        ],
+        "srnwiki": [],
+        "sswiki": [],
+        "sswiktionary": [],
+        "stwiki": [],
+        "stwiktionary": [],
+        "stqwiki": [],
+        "suwiki": [],
+        "suwiktionary": [],
+        "suwikiquote": [],
+        "suwikisource": [],
+        "svwiki": [
+            "rollbacker",
+            "flow-bot"
+        ],
+        "svwiktionary": [],
+        "svwikibooks": [],
+        "svwikinews": [],
+        "svwikiquote": [],
+        "svwikisource": [],
+        "svwikiversity": [],
+        "svwikivoyage": [
+            "patroller",
+            "rollbacker"
+        ],
+        "swwiki": [],
+        "swwiktionary": [],
+        "szlwiki": [],
+        "szywiki": [],
+        "tawiki": [
+            "patroller",
+            "rollbacker"
+        ],
+        "tawiktionary": [],
+        "tawikibooks": [],
+        "tawikinews": [
+            "reviewer"
+        ],
+        "tawikiquote": [],
+        "tawikisource": [],
+        "taywiki": [],
+        "tcywiki": [],
+        "tewiki": [
+            "flow-bot"
+        ],
+        "tewiktionary": [],
+        "tewikibooks": [],
+        "tewikiquote": [],
+        "tewikisource": [],
+        "tetwiki": [],
+        "tgwiki": [],
+        "tgwiktionary": [],
+        "tgwikibooks": [],
+        "thwiki": [
+            "patroller"
+        ],
+        "thwiktionary": [],
+        "thwikibooks": [],
+        "thwikiquote": [],
+        "thwikisource": [],
+        "tiwiki": [],
+        "tiwiktionary": [],
+        "tkwiki": [],
+        "tkwiktionary": [],
+        "tlwiki": [],
+        "tlwiktionary": [],
+        "tlwikibooks": [],
+        "tlwikiquote": [],
+        "tlywiki": [],
+        "tnwiki": [],
+        "tnwiktionary": [],
+        "towiki": [],
+        "tpiwiki": [],
+        "tpiwiktionary": [],
+        "trwiki": [
+            "massmessage-sender",
+            "patroller",
+            "interface-editor"
+        ],
+        "trwiktionary": [],
+        "trwikibooks": [],
+        "trwikiquote": [],
+        "trwikisource": [],
+        "trwikivoyage": [
+            "rollbacker"
+        ],
+        "trvwiki": [],
+        "tswiki": [],
+        "tswiktionary": [],
+        "ttwiki": [],
+        "ttwiktionary": [],
+        "ttwikibooks": [],
+        "tumwiki": [],
+        "twwiki": [],
+        "tywiki": [],
+        "tyvwiki": [],
+        "udmwiki": [],
+        "ugwiki": [],
+        "ugwiktionary": [],
+        "ukwiki": [
+            "patroller",
+            "rollbacker",
+            "filemover",
+            "flood",
+            "reviewer"
+        ],
+        "ukwiktionary": [
+            "reviewer"
+        ],
+        "ukwikibooks": [],
+        "ukwikinews": [],
+        "ukwikiquote": [],
+        "ukwikisource": [],
+        "ukwikivoyage": [
+            "rollbacker"
+        ],
+        "urwiki": [
+            "eliminator",
+            "filemover",
+            "interface-editor",
+            "rollbacker",
+            "massmessage-sender",
+            "extendedmover",
+            "patroller",
+            "abusefilter",
+            "flow-bot"
+        ],
+        "urwiktionary": [],
+        "urwikibooks": [],
+        "urwikiquote": [],
+        "uzwiki": [
+            "rollbacker",
+            "eliminator",
+            "patroller"
+        ],
+        "uzwiktionary": [],
+        "uzwikiquote": [],
+        "vewiki": [],
+        "vecwiki": [
+            "flood",
+            "reviewer"
+        ],
+        "vecwiktionary": [],
+        "vecwikisource": [],
+        "vepwiki": [],
+        "viwiki": [
+            "eliminator",
+            "flood",
+            "rollbacker",
+            "patroller",
+            "templateeditor"
+        ],
+        "viwiktionary": [
+            "rollbacker"
+        ],
+        "viwikibooks": [
+            "eliminator"
+        ],
+        "viwikiquote": [],
+        "viwikisource": [
+            "flow-bot"
+        ],
+        "viwikivoyage": [],
+        "vlswiki": [],
+        "vowiki": [],
+        "vowiktionary": [],
+        "fiu_vrowiki": [],
+        "wawiki": [
+            "flow-bot"
+        ],
+        "wawiktionary": [
+            "flow-bot"
+        ],
+        "wawikisource": [],
+        "warwiki": [],
+        "wowiki": [],
+        "wowiktionary": [],
+        "wuuwiki": [
+            "rollbacker"
+        ],
+        "xalwiki": [],
+        "xhwiki": [],
+        "xmfwiki": [],
+        "yiwiki": [],
+        "yiwiktionary": [],
+        "yiwikisource": [],
+        "yowiki": [
+            "rollbacker"
+        ],
+        "zh_yuewiki": [
+            "rollbacker",
+            "abusefilter"
+        ],
+        "yuewiktionary": [],
+        "zawiki": [],
+        "zeawiki": [],
+        "zghwiki": [],
+        "zhwiki": [
+            "abusefilter-helper",
+            "rollbacker",
+            "patroller",
+            "flood",
+            "massmessage-sender",
+            "filemover",
+            "templateeditor",
+            "flow-bot"
+        ],
+        "zhwiktionary": [
+            "flood",
+            "templateeditor"
+        ],
+        "zhwikibooks": [
+            "flood"
+        ],
+        "zhwikinews": [
+            "rollbacker",
+            "flood"
+        ],
+        "zhwikiquote": [
+            "flood"
+        ],
+        "zhwikisource": [
+            "flow-bot"
+        ],
+        "zhwikiversity": [
+            "patroller",
+            "flood"
+        ],
+        "zhwikivoyage": [
+            "patroller"
+        ],
+        "zuwiki": [],
+        "zuwiktionary": [],
+        "amwikimedia": [
+            "translationadmin"
+        ],
+        "apiportalwiki": [
+            "docseditor"
+        ],
+        "arwikimedia": [],
+        "azwikimedia": [
+            "translationadmin"
+        ],
+        "bdwikimedia": [
+            "translationadmin"
+        ],
+        "bewikimedia": [
+            "translationadmin"
+        ],
+        "betawikiversity": [
+            "test-sysop",
+            "translationadmin"
+        ],
+        "brwikimedia": [
+            "translationadmin"
+        ],
+        "cawikimedia": [
+            "translationadmin"
+        ],
+        "cowikimedia": [],
+        "commonswiki": [
+            "rollbacker",
+            "patroller",
+            "filemover",
+            "image-reviewer",
+            "translationadmin",
+            "templateeditor",
+            "flow-bot"
+        ],
+        "dkwikimedia": [],
+        "donatewiki": [
+            "flood"
+        ],
+        "etwikimedia": [],
+        "fiwikimedia": [
+            "flow-bot"
+        ],
+        "foundationwiki": [
+            "translationadmin",
+            "flood"
+        ],
+        "gewikimedia": [
+            "translationadmin"
+        ],
+        "grwikimedia": [
+            "translationadmin"
+        ],
+        "hiwikimedia": [
+            "translationadmin"
+        ],
+        "idwikimedia": [
+            "translationadmin"
+        ],
+        "incubatorwiki": [
+            "test-sysop",
+            "translationadmin"
+        ],
+        "loginwiki": [],
+        "maiwikimedia": [
+            "translationadmin"
+        ],
+        "mediawikiwiki": [
+            "translationadmin",
+            "flow-bot"
+        ],
+        "metawiki": [
+            "campaignevents-beta-tester",
+            "centralnoticeadmin",
+            "flood",
+            "global-renamer",
+            "massmessage-sender",
+            "oauthadmin",
+            "patroller",
+            "translationadmin",
+            "wmf-officeit",
+            "wmf-supportsafety",
+            "push-subscription-manager"
+        ],
+        "mkwikimedia": [],
+        "mxwikimedia": [],
+        "ngwikimedia": [],
+        "nlwikimedia": [],
+        "nowikimedia": [
+            "translationadmin"
+        ],
+        "nostalgiawiki": [],
+        "nycwikimedia": [],
+        "outreachwiki": [
+            "translationadmin",
+            "flow-bot"
+        ],
+        "plwikimedia": [
+            "translationadmin"
+        ],
+        "ptwikimedia": [],
+        "punjabiwikimedia": [
+            "translationadmin"
+        ],
+        "romdwikimedia": [],
+        "rswikimedia": [],
+        "ruwikimedia": [
+            "translationadmin"
+        ],
+        "sewikimedia": [
+            "translationadmin",
+            "flow-bot"
+        ],
+        "sourceswiki": [
+            "flood",
+            "translationadmin"
+        ],
+        "specieswiki": [
+            "patroller",
+            "translationadmin",
+            "flow-bot"
+        ],
+        "testwiki": [
+            "filemover",
+            "templateeditor",
+            "reviewer",
+            "researcher",
+            "rollbacker",
+            "centralnoticeadmin",
+            "translationadmin",
+            "data-qa",
+            "copyviobot",
+            "flow-bot"
+        ],
+        "test2wiki": [
+            "qa_automation",
+            "reviewer",
+            "copyviobot",
+            "flow-bot"
+        ],
+        "testwikidatawiki": [
+            "rollbacker",
+            "propertycreator",
+            "wikidata-staff",
+            "flood",
+            "translationadmin"
+        ],
+        "thankyouwiki": [],
+        "trwikimedia": [],
+        "uawikimedia": [
+            "translationadmin"
+        ],
+        "vewikimedia": [
+            "translationadmin"
+        ],
+        "votewiki": [
+            "electcomm",
+            "staffsupport",
+            "electionadmin"
+        ],
+        "wbwikimedia": [
+            "translationadmin"
+        ],
+        "wikidatawiki": [
+            "rollbacker",
+            "propertycreator",
+            "wikidata-staff",
+            "flood",
+            "translationadmin",
+            "flow-bot"
+        ],
+        "wikifunctionswiki": [
+            "functioneer",
+            "wikifunctions-staff",
+            "translationadmin",
+            "functionmaintainer"
+        ],
+        "wikimaniawiki": [
+            "translationadmin"
+        ]
+    }
+}
